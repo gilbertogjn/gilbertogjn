@@ -13,7 +13,6 @@ Engenheiro Front-end formado pela EBAC – Escola Britânica de Artes Criativas 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gilbertogjn&repo=efood_v2)](https://github.com/gilbertogjn/efood_v2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gilbertogjn&repo=ocado_reserved)](https://github.com/gilbertogjn/ocado_reserved)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gilbertogjn&repo=tenzies)](https://github.com/gilbertogjn/tenzies)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gilbertogjn&repo=add-to-cart-local)](https://github.com/gilbertogjn/add-to-cart-local)
 
 ### Linguagens utilizadas
 
